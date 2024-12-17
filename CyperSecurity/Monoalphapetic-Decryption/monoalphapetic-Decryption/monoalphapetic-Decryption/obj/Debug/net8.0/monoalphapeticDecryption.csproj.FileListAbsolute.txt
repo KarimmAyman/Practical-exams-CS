@@ -1,0 +1,15 @@
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\bin\Debug\net8.0\monoalphapeticDecryption.exe
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\bin\Debug\net8.0\monoalphapeticDecryption.deps.json
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\bin\Debug\net8.0\monoalphapeticDecryption.runtimeconfig.json
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\bin\Debug\net8.0\monoalphapeticDecryption.dll
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\bin\Debug\net8.0\monoalphapeticDecryption.pdb
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\obj\Debug\net8.0\monoalphapeticDecryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\obj\Debug\net8.0\monoalphapeticDecryption.AssemblyInfoInputs.cache
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\obj\Debug\net8.0\monoalphapeticDecryption.AssemblyInfo.cs
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\obj\Debug\net8.0\monoalphapeticDecryption.csproj.CoreCompileInputs.cache
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\obj\Debug\net8.0\monoalphapeticDecryption.sourcelink.json
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\obj\Debug\net8.0\monoalphapeticDecryption.dll
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\obj\Debug\net8.0\refint\monoalphapeticDecryption.dll
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\obj\Debug\net8.0\monoalphapeticDecryption.pdb
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\obj\Debug\net8.0\monoalphapeticDecryption.genruntimeconfig.cache
+C:\Users\clt\Cs Tasks\Practical-exams-CS\CyperSecurity\Monoalphapetic-Decryption\monoalphapetic-Decryption\monoalphapetic-Decryption\obj\Debug\net8.0\ref\monoalphapeticDecryption.dll
