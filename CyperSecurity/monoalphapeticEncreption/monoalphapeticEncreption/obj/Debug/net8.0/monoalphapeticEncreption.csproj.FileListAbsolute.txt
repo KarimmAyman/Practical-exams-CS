@@ -1,0 +1,14 @@
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\bin\Debug\net8.0\monoalphapeticEncreption.exe
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\bin\Debug\net8.0\monoalphapeticEncreption.deps.json
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\bin\Debug\net8.0\monoalphapeticEncreption.runtimeconfig.json
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\bin\Debug\net8.0\monoalphapeticEncreption.dll
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\bin\Debug\net8.0\monoalphapeticEncreption.pdb
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\obj\Debug\net8.0\monoalphapeticEncreption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\obj\Debug\net8.0\monoalphapeticEncreption.AssemblyInfoInputs.cache
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\obj\Debug\net8.0\monoalphapeticEncreption.AssemblyInfo.cs
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\obj\Debug\net8.0\monoalphapeticEncreption.csproj.CoreCompileInputs.cache
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\obj\Debug\net8.0\monoalphapeticEncreption.dll
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\obj\Debug\net8.0\refint\monoalphapeticEncreption.dll
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\obj\Debug\net8.0\monoalphapeticEncreption.pdb
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\obj\Debug\net8.0\monoalphapeticEncreption.genruntimeconfig.cache
+C:\Users\karee\source\repos\monoalphapeticEncreption\monoalphapeticEncreption\obj\Debug\net8.0\ref\monoalphapeticEncreption.dll
